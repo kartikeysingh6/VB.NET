@@ -1,0 +1,32 @@
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\simple vbcrud.exe.config
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\simple vbcrud.exe
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\simple vbcrud.pdb
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\simple vbcrud.xml
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\MySql.Data.dll
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\Google.Protobuf.dll
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\BouncyCastle.Crypto.dll
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\Renci.SshNet.dll
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\bin\Debug\MySql.Data.xml
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.vbprojResolveAssemblyReference.cache
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\obj\Debug\simple_vbcrud.Form1.resources
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\obj\Debug\simple_vbcrud.Resources.resources
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.vbproj.GenerateResource.Cache
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.exe
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.xml
+A:\VisualBasic\Stock Manager\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.pdb
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\simple vbcrud.exe.config
+A:\VisualBasic\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.exe
+A:\VisualBasic\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.xml
+A:\VisualBasic\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.pdb
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\simple vbcrud.exe
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\simple vbcrud.pdb
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\simple vbcrud.xml
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\MySql.Data.dll
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\Google.Protobuf.dll
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\BouncyCastle.Crypto.dll
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\Renci.SshNet.dll
+A:\VisualBasic\simple vbcrud\simple vbcrud\bin\Debug\MySql.Data.xml
+A:\VisualBasic\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.vbprojResolveAssemblyReference.cache
+A:\VisualBasic\simple vbcrud\simple vbcrud\obj\Debug\simple_vbcrud.Form1.resources
+A:\VisualBasic\simple vbcrud\simple vbcrud\obj\Debug\simple_vbcrud.Resources.resources
+A:\VisualBasic\simple vbcrud\simple vbcrud\obj\Debug\simple vbcrud.vbproj.GenerateResource.Cache
