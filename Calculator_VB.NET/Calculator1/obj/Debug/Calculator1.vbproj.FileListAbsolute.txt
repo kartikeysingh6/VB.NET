@@ -1,0 +1,12 @@
+C:\Users\zarate\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\zarate\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\zarate\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\zarate\source\repos\Calculator1\Calculator1\bin\Debug\Calculator1.xml
+C:\Users\zarate\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.vbprojAssemblyReference.cache
+C:\Users\zarate\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\zarate\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.Resources.resources
+C:\Users\zarate\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.vbproj.GenerateResource.cache
+C:\Users\zarate\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.vbproj.CoreCompileInputs.cache
+C:\Users\zarate\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\zarate\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.xml
+C:\Users\zarate\source\repos\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
